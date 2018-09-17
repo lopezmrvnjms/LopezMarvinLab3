@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="head">
+        Styles and Material Design
+    </string>
+    <string name="tit">
+        Manila for A Day
+    </string>
+    <string name="locc">
+        Location:  #1 of 33 Tours in Manila  121 reviews Intramuros Manila Gen. Luna Street, Manila
+    </string>
+    <string name="diss">
+        Distance from UST: 3.8 km
+    </string>
+    <string name="but1">
+        Back
+    </string>
+    <string name="but2">
+        Next
+    </string>
+
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LopezMarvinLab3</string>
+    <string name="headd">
+        Styles and Material Design
+    </string>
+    <string name="titt">
+        Bambike Ecotours Intramuros
+    </string>
+    <string name="loccc">
+        Location: Real Street Corner General Luna Street Plaza San Luis Complex, Intramuros, Manila
+    </string>
+    <string name="disss">
+        Distance from UST: 3.7 km
+    </string>
+    <string name="butt1">
+        Back
+    </string>
+    <string name="butt2">
+        Next
+    </string>
+</resources>
